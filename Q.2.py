@@ -26,3 +26,4 @@ y, x = My_lib.runge_kutta(
 print("For Q.2 Approximate solution at x = %.0f is %s" % (x, str(y)))
 
 # Output
+# For Q.2 Approximate solution at x = 11 is -39.70924865888711
