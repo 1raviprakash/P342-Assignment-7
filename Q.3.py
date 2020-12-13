@@ -31,3 +31,4 @@ print("Using z(x = %.0f) = %f, we obtain y_e(x = %.0f) = %f ≈ β = %f ." %
       (x0, z, x_lim, y, yn))
 
 # Output
+# Using z(x = 0) = 0.966321, we obtain y_e(x = 1) = 3.436564 ≈ β = 3.436564 .
