@@ -28,3 +28,4 @@ j.close()
 print("For Q1.(b) solution at x = %.0f is %s" % (x[-1], str(y[-1])))
 
 # Output
+# For Q1.(b) solution at x = 60 is 120.59095477386926
