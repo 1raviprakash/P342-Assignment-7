@@ -11,7 +11,7 @@ def fun_dydx(v, x):
 # Function
 
 
-def fun_dzdx(y, z, x):
+def fun_dzdx(y, z, x): 
     return z + 1
 
 
