@@ -28,7 +28,7 @@ def factorial(num):
     elif num == 0:
         return 1
     else:
-        for i in range(1, num + 1):
+        for i in range(1, num + 1): 
             fact = fact * i
         return fact
 
